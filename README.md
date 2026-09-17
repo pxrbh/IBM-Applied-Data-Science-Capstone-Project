@@ -12,7 +12,7 @@ To achieve that goal, this project underwent the following stages:
 3. Data Wrangling
 4. EDA with SQL
 5. EDA with Visualization Lab
-6. Visualization with Folium
+6. Interactive Visual Analytics with Folium
 7. Interactive Dashboard with Plotly
 8. Predictive Analysis using Machine Learning
    
